@@ -3,7 +3,6 @@
 
 # 1) Read in data
 
-setwd("C:\\Users\\Andrei\\Documents\\Data Science Specialization\\Exploratory Data Analysis\\Project 1")
 electric = read.table("household_power_consumption.txt", header = TRUE)
 
 # 2) Convert dates and times into one new date and time variable
